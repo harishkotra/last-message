@@ -6,6 +6,18 @@ When words fail, AI helps humans be heard.
 
 Last Message is a Streamlit-based emergency intelligence app built for the Gemma 4 Good Hackathon. It transforms chaotic panic input into concise, actionable rescue communication for civilians, families, and responders.
 
+#### Video Pitch: [https://youtu.be/1Tq16hbdz48](https://youtu.be/1Tq16hbdz48)
+
+#### Screenshots
+
+<img width="1777" height="3254" alt="screencapture-localhost-8501-2026-05-19-00_37_51 (2)" src="https://github.com/user-attachments/assets/9dbaec9e-bb2a-45d3-bb73-abb7ef4f53f0" />
+<img width="1439" height="2309" alt="screencapture-localhost-8501-2026-05-19-00_38_24" src="https://github.com/user-attachments/assets/ec4ac3c0-e0f3-4135-a0aa-f15471bbc359" />
+<img width="1439" height="2309" alt="screencapture-localhost-8501-2026-05-19-00_38_40" src="https://github.com/user-attachments/assets/b5327f52-4fba-4188-a61b-a1684f561c7a" />
+<img width="1439" height="2309" alt="screencapture-localhost-8501-2026-05-19-00_39_18" src="https://github.com/user-attachments/assets/788be73c-12f5-4fa8-86b4-35d2f4fcd3e6" />
+<img width="1439" height="2309" alt="screencapture-localhost-8501-2026-05-19-00_38_54" src="https://github.com/user-attachments/assets/fc79deac-a84e-48b5-872f-cd746d6af377" />
+<img width="1439" height="3183" alt="screencapture-localhost-8501-2026-05-19-00_39_37" src="https://github.com/user-attachments/assets/5f769719-e596-4bcc-b23d-6928fd8b2d0e" />
+
+
 ## Why this project exists
 In real emergencies, people do not communicate in perfect sentences. They speak in fragments, fear, and urgency. Last Message focuses on cognitive clarity under stress:
 
